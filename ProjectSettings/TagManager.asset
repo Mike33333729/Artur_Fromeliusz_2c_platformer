@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Ground
   - Move Wall
+  - Kill Block
   layers:
   - Default
   - TransparentFX
